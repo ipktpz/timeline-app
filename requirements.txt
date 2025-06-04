@@ -1,3 +1,3 @@
 pandas
 streamlit
-streamlit-timeline
+git+https://github.com/giswqs/streamlit-timeline
