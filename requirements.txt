@@ -1,3 +1,4 @@
 pandas
 streamlit
-git+https://github.com/giswqs/streamlit-timeline
+streamlit-antd-components
+
